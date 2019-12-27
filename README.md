@@ -1,0 +1,2 @@
+# EquiTrace
+Ce projet est crée initialement pour le Belgique car elle manque cruellement de suivi des performances et de la génétique de son patrimoine équestre. La France a mis en place via les Hara-Nationaux une plate-forme de suivi magnifique. J'ai beaucoup étudié celle-ci et je m'en inspire pour mettre en place EquiTrace. Je possède les connaissances du milieu équestre et aussi en informatique.
