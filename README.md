@@ -1,3 +1,5 @@
+# 17/01/2022 - Par manque de temps pour pouvoir m'occuper du projet, je l'archive ce jour.
+
 # EquiFPG
 Ce projet est crée initialement pour le Belgique car elle manque cruellement de suivi des performances et de la génétique de son patrimoine équestre. 
 
